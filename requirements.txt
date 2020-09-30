@@ -1,0 +1,5 @@
+Flask==1.1.2
+tensorflow==2.0.0a0
+keras==2.4.3
+opencv-python==3.4.7.28
+numpy==1.19.1   
