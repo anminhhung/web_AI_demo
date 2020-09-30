@@ -23,5 +23,5 @@ RUN cd FLASK_API && \
 
 WORKDIR /FLASK_API
 
-# CMD python3 app.py
-CMD ["/bin/bash", "entrypoint.sh"]
+CMD python3 app.py
+# CMD ["/bin/bash", "entrypoint.sh"]
